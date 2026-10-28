@@ -6,11 +6,17 @@ Repositório: https://github.com/Senador2006/CP6_POO
 
 ## Grupo
 
+Turma 2CCPO.
+
 | Integrante | RM |
 | --- | --- |
-| | |
-| | |
-| | |
+| Thiago Ono Sakai | 563448 |
+| Gabriel Nacarelli | 565298 |
+| Luiz Claro Lima | 563014 |
+| Lucas Franco de Godoy Fortes | 561723 |
+| Rafael Silva Oliveira Nascimento | 565415 |
+| Pedro Mitsuo Risardi Nisiaymamoto | 561710 |
+| Pedro Noronha dos Santos | 564572 |
 
 ## Dossiê técnico do FiapBank
 
